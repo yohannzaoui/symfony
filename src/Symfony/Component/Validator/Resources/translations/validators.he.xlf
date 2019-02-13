@@ -188,15 +188,15 @@
             </trans-unit>
             <trans-unit id="50">
                 <source>No file was uploaded.</source>
-                <target>הקובץ לא הועלה.</target>
+                <target>.הקובץ לא הועלה</target>
             </trans-unit>
             <trans-unit id="51">
                 <source>No temporary folder was configured in php.ini.</source>
-                <target>לא הוגדרה תיקייה זמנית ב php.ini.</target>
+                <target>.לא הוגדרה תיקייה זמנית ב php.ini</target>
             </trans-unit>
             <trans-unit id="52">
                 <source>Cannot write temporary file to disk.</source>
-                <target>לא ניתן לכתוב קובץ זמני לדיסק.</target>
+                <target>.לא ניתן לכתוב קובץ זמני לדיסק</target>
             </trans-unit>
             <trans-unit id="53">
                 <source>A PHP extension caused the upload to fail.</source>
@@ -204,15 +204,15 @@
             </trans-unit>
             <trans-unit id="54">
                 <source>This collection should contain {{ limit }} element or more.|This collection should contain {{ limit }} elements or more.</source>
-                <target>האוסף אמור להכיל {{ limit }} אלמנטים או יותר.|האוסף אמור להכיל {{ limit }} אלמנטים או יותר.</target>
+                <target>.האוסף אמור להכיל {{ limit }} אלמנטים או יותר.|האוסף אמור להכיל {{ limit }} אלמנטים או יותר</target>
             </trans-unit>
             <trans-unit id="55">
                 <source>This collection should contain {{ limit }} element or less.|This collection should contain {{ limit }} elements or less.</source>
-                <target>האוסף אמור להכיל {{ limit }} אלמנטים או פחות.|האוסף אמור להכיל {{ limit }} אלמנטים או פחות.</target>
+                <target>.האוסף אמור להכיל {{ limit }} אלמנטים או פחות.|האוסף אמור להכיל {{ limit }} אלמנטים או פחות</target>
             </trans-unit>
             <trans-unit id="56">
                 <source>This collection should contain exactly {{ limit }} element.|This collection should contain exactly {{ limit }} elements.</source>
-                <target>האוסף צריך להכיל בדיוק {{ limit }} אלמנטים.|האוסף צריך להכיל בדיוק {{ limit }} אלמנטים.</target>
+                <target>.האוסף צריך להכיל בדיוק {{ limit }} אלמנטים.|האוסף צריך להכיל בדיוק {{ limit }} אלמנטים</target>
             </trans-unit>
             <trans-unit id="57">
                 <source>Invalid card number.</source>
@@ -220,7 +220,7 @@
             </trans-unit>
             <trans-unit id="58">
                 <source>Unsupported card type or invalid card number.</source>
-                <target>סוג הכרטיס אינו נתמך או לא חוקי.</target>
+                <target>.סוג הכרטיס אינו נתמך או לא חוקי</target>
             </trans-unit>
             <trans-unit id="59">
                 <source>This is not a valid International Bank Account Number (IBAN).</source>
@@ -240,11 +240,11 @@
             </trans-unit>
             <trans-unit id="63">
                 <source>This value is not a valid ISSN.</source>
-                <target>This value is not a valid ISSN.</target>
+                <target>.ערך זה אינו ISSN חוקי</target>
             </trans-unit>
             <trans-unit id="64">
                 <source>This value is not a valid currency.</source>
-                <target>This value is not a valid currency.</target>
+                <target>.ערך זה אינו מטבע חוקי</target>
             </trans-unit>
             <trans-unit id="65">
                 <source>This value should be equal to {{ compared_value }}.</source>
@@ -300,7 +300,7 @@
             </trans-unit>
             <trans-unit id="78">
                 <source>An empty file is not allowed.</source>
-                <target>An empty file is not allowed.</target>
+                <target>.קובץ ריק אינו מותר</target>
             </trans-unit>
         </body>
     </file>
